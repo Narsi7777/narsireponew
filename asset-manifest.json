@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/newOne/static/css/main.f855e6bc.css",
-    "main.js": "/newOne/static/js/main.ec4644ed.js",
-    "static/js/453.ceca2311.chunk.js": "/newOne/static/js/453.ceca2311.chunk.js",
-    "index.html": "/newOne/index.html",
-    "main.f855e6bc.css.map": "/newOne/static/css/main.f855e6bc.css.map",
-    "main.ec4644ed.js.map": "/newOne/static/js/main.ec4644ed.js.map",
-    "453.ceca2311.chunk.js.map": "/newOne/static/js/453.ceca2311.chunk.js.map"
+    "main.css": "/bmwlandingpage/static/css/main.ef749ce9.css",
+    "main.js": "/bmwlandingpage/static/js/main.078881ae.js",
+    "static/js/453.ceca2311.chunk.js": "/bmwlandingpage/static/js/453.ceca2311.chunk.js",
+    "static/media/bmw_PNG99547.png": "/bmwlandingpage/static/media/bmw_PNG99547.7ee803b0efd2cb8e5be6.png",
+    "index.html": "/bmwlandingpage/index.html",
+    "main.ef749ce9.css.map": "/bmwlandingpage/static/css/main.ef749ce9.css.map",
+    "main.078881ae.js.map": "/bmwlandingpage/static/js/main.078881ae.js.map",
+    "453.ceca2311.chunk.js.map": "/bmwlandingpage/static/js/453.ceca2311.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ec4644ed.js"
+    "static/css/main.ef749ce9.css",
+    "static/js/main.078881ae.js"
   ]
 }
